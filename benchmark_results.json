@@ -1,0 +1,712 @@
+{
+  "summary": {
+    "total": 21,
+    "successes": 21,
+    "failures": 0,
+    "deterministic_repeat_pixel_match": true,
+    "completed_at": "2000-01-01T00:00:00+0900"
+  },
+  "results": [
+    {
+      "id": "product_photo_a",
+      "kind": "t2i",
+      "seed": 1001,
+      "steps": 25,
+      "requested_size": [
+        1024,
+        1024
+      ],
+      "prompt_id": "749f2103-4886-4980-ba8a-d5bd88c23934",
+      "success": true,
+      "elapsed_seconds": 14.47,
+      "images": [
+        {
+          "filename": "product_photo_a_00001_.png",
+          "subfolder": "qwen21_benchmark",
+          "type": "output"
+        }
+      ],
+      "errors": [],
+      "peak_vram_mib": 15207,
+      "mean_gpu_util_percent": 56.1,
+      "local_file": "benchmark_outputs/product_photo_a.png",
+      "width": 1024,
+      "height": 1024,
+      "mode": "RGBA",
+      "bytes": 1276246,
+      "sha256": "5f139ed2e4698d9087c0610ec1239f7705b8a875b08a43fa03eb3b2746a51263",
+      "alpha_min": 253,
+      "alpha_max": 255,
+      "transparent_pixel_percent": 0.0,
+      "pixel_sha256": "93ce3e185a67a12e45af2eaeb1a61593eddb6f0eddb5d25ac768a67fd0799812"
+    },
+    {
+      "id": "product_photo_b",
+      "kind": "t2i",
+      "seed": 1002,
+      "steps": 25,
+      "requested_size": [
+        1024,
+        1024
+      ],
+      "prompt_id": "7fd587ca-a5ef-47ab-a935-5a82381c5454",
+      "success": true,
+      "elapsed_seconds": 8.06,
+      "images": [
+        {
+          "filename": "product_photo_b_00001_.png",
+          "subfolder": "qwen21_benchmark",
+          "type": "output"
+        }
+      ],
+      "errors": [],
+      "peak_vram_mib": 15028,
+      "mean_gpu_util_percent": 85.5,
+      "local_file": "benchmark_outputs/product_photo_b.png",
+      "width": 1024,
+      "height": 1024,
+      "mode": "RGBA",
+      "bytes": 1236186,
+      "sha256": "8f86bef636c29f31f85b0e567bfdaeb13135056a58128d28bd31932d7ffe3072",
+      "alpha_min": 251,
+      "alpha_max": 255,
+      "transparent_pixel_percent": 0.0,
+      "pixel_sha256": "885dc940f296da2c8b4ffed2cbe4a28c7004f47df591da7bd5a8dbfbe2c0d0c3"
+    },
+    {
+      "id": "portrait",
+      "kind": "t2i",
+      "seed": 2001,
+      "steps": 25,
+      "requested_size": [
+        768,
+        1344
+      ],
+      "prompt_id": "fd0e4430-acdf-453b-8e8b-eeb4c48266a1",
+      "success": true,
+      "elapsed_seconds": 9.32,
+      "images": [
+        {
+          "filename": "portrait_00001_.png",
+          "subfolder": "qwen21_benchmark",
+          "type": "output"
+        }
+      ],
+      "errors": [],
+      "peak_vram_mib": 15283,
+      "mean_gpu_util_percent": 81.4,
+      "local_file": "benchmark_outputs/portrait.png",
+      "width": 768,
+      "height": 1344,
+      "mode": "RGBA",
+      "bytes": 1493840,
+      "sha256": "add4fbc4e79832d7301381cff1d02c330cf31dbf26e7f6063912f7a276b4d9d9",
+      "alpha_min": 253,
+      "alpha_max": 255,
+      "transparent_pixel_percent": 0.0,
+      "pixel_sha256": "355bde92b29475df20d52841703e8591cf56c0881bdc6d3ff070a7aba597052e"
+    },
+    {
+      "id": "hands_cooking",
+      "kind": "t2i",
+      "seed": 3001,
+      "steps": 25,
+      "requested_size": [
+        1344,
+        768
+      ],
+      "prompt_id": "d08d9675-6820-4959-a6cd-33a15674a768",
+      "success": true,
+      "elapsed_seconds": 10.22,
+      "images": [
+        {
+          "filename": "hands_cooking_00001_.png",
+          "subfolder": "qwen21_benchmark",
+          "type": "output"
+        }
+      ],
+      "errors": [],
+      "peak_vram_mib": 15400,
+      "mean_gpu_util_percent": 79.0,
+      "local_file": "benchmark_outputs/hands_cooking.png",
+      "width": 1344,
+      "height": 768,
+      "mode": "RGBA",
+      "bytes": 1836346,
+      "sha256": "8ea373d2c48064634ce7a331006fb0d376d75f248a3cf175d6c1e062ac16c7e2",
+      "alpha_min": 254,
+      "alpha_max": 255,
+      "transparent_pixel_percent": 0.0,
+      "pixel_sha256": "315b8d5c743ea556064343702d31db939d84c405a79f0fc682105b09452e1249"
+    },
+    {
+      "id": "anime_action",
+      "kind": "t2i",
+      "seed": 4001,
+      "steps": 25,
+      "requested_size": [
+        768,
+        1344
+      ],
+      "prompt_id": "91abe8bd-434a-4932-a060-1c35ce720982",
+      "success": true,
+      "elapsed_seconds": 10.11,
+      "images": [
+        {
+          "filename": "anime_action_00001_.png",
+          "subfolder": "qwen21_benchmark",
+          "type": "output"
+        }
+      ],
+      "errors": [],
+      "peak_vram_mib": 15370,
+      "mean_gpu_util_percent": 79.9,
+      "local_file": "benchmark_outputs/anime_action.png",
+      "width": 768,
+      "height": 1344,
+      "mode": "RGBA",
+      "bytes": 2183281,
+      "sha256": "0e7bf457373e3c3d21d7a64d4b5de062bb9633a61237815175cc05baa5ee7071",
+      "alpha_min": 85,
+      "alpha_max": 255,
+      "transparent_pixel_percent": 0.008,
+      "pixel_sha256": "9cc64ace9ab37802c30cb393c9ca215a811f01e294b618c310306d8e7c80c7eb"
+    },
+    {
+      "id": "jp_poster",
+      "note": "date strings in the prompt and OCR text were replaced with a synthetic date after measurement; match scores are the pre-replacement measurement",
+      "kind": "t2i",
+      "seed": 5001,
+      "steps": 25,
+      "requested_size": [
+        768,
+        1344
+      ],
+      "prompt_id": "647f6180-8315-4535-afd4-56a2b60876b8",
+      "success": true,
+      "elapsed_seconds": 9.05,
+      "images": [
+        {
+          "filename": "jp_poster_00001_.png",
+          "subfolder": "qwen21_benchmark",
+          "type": "output"
+        }
+      ],
+      "errors": [],
+      "peak_vram_mib": 15355,
+      "mean_gpu_util_percent": 79.7,
+      "local_file": "benchmark_outputs/jp_poster.png",
+      "width": 768,
+      "height": 1344,
+      "mode": "RGBA",
+      "bytes": 705483,
+      "sha256": "b5627740c386c3988adbfa32ca7f196db4cfb2b6bd336fbf84076e6e90580249",
+      "alpha_min": 238,
+      "alpha_max": 255,
+      "transparent_pixel_percent": 0.049,
+      "pixel_sha256": "713b28e6f75954e2b78e25baa0b34438d4bdb9bcd0516d9ab500a39b379d9af7"
+    },
+    {
+      "id": "en_infographic",
+      "kind": "t2i",
+      "seed": 6001,
+      "steps": 25,
+      "requested_size": [
+        768,
+        1344
+      ],
+      "prompt_id": "3061b0b4-34b9-453c-acfe-f408fe835230",
+      "success": true,
+      "elapsed_seconds": 10.08,
+      "images": [
+        {
+          "filename": "en_infographic_00001_.png",
+          "subfolder": "qwen21_benchmark",
+          "type": "output"
+        }
+      ],
+      "errors": [],
+      "peak_vram_mib": 15405,
+      "mean_gpu_util_percent": 66.7,
+      "local_file": "benchmark_outputs/en_infographic.png",
+      "width": 768,
+      "height": 1344,
+      "mode": "RGBA",
+      "bytes": 977875,
+      "sha256": "db66b1b34817abb44ab6dc7f0f759b9f03f8caef135f5c361cbd6a229e701be0",
+      "alpha_min": 240,
+      "alpha_max": 255,
+      "transparent_pixel_percent": 0.095,
+      "pixel_sha256": "ad459a2e78a00fbd07d2ed334144307451ef9331f25920c88272f3222fa26a62"
+    },
+    {
+      "id": "flow_diagram",
+      "kind": "t2i",
+      "seed": 7001,
+      "steps": 25,
+      "requested_size": [
+        1344,
+        768
+      ],
+      "prompt_id": "41a702ae-7b8f-4398-9acf-3ad8f2dd030d",
+      "success": true,
+      "elapsed_seconds": 9.06,
+      "images": [
+        {
+          "filename": "flow_diagram_00001_.png",
+          "subfolder": "qwen21_benchmark",
+          "type": "output"
+        }
+      ],
+      "errors": [],
+      "peak_vram_mib": 15244,
+      "mean_gpu_util_percent": 79.4,
+      "local_file": "benchmark_outputs/flow_diagram.png",
+      "width": 1344,
+      "height": 768,
+      "mode": "RGBA",
+      "bytes": 740650,
+      "sha256": "04a54dce7479761fc8c07a3839f99dfe069612be54ca785343dc27e7451f7453",
+      "alpha_min": 247,
+      "alpha_max": 255,
+      "transparent_pixel_percent": 0.001,
+      "pixel_sha256": "4d1c43216138137988b203b95098fb23e9e122906404a6b240fde997c64bb3a2"
+    },
+    {
+      "id": "landscape",
+      "kind": "t2i",
+      "seed": 8001,
+      "steps": 25,
+      "requested_size": [
+        1344,
+        768
+      ],
+      "prompt_id": "3f184694-d843-4ba9-84d1-571054e4afab",
+      "success": true,
+      "elapsed_seconds": 9.05,
+      "images": [
+        {
+          "filename": "landscape_00001_.png",
+          "subfolder": "qwen21_benchmark",
+          "type": "output"
+        }
+      ],
+      "errors": [],
+      "peak_vram_mib": 15348,
+      "mean_gpu_util_percent": 80.4,
+      "local_file": "benchmark_outputs/landscape.png",
+      "width": 1344,
+      "height": 768,
+      "mode": "RGBA",
+      "bytes": 1954671,
+      "sha256": "97a6cf7882d46cf629d59bf7cb70fc0e060db4b3a0a073155d75080381f0234d",
+      "alpha_min": 251,
+      "alpha_max": 255,
+      "transparent_pixel_percent": 0.0,
+      "pixel_sha256": "78801ca13fd9c29ee6b65b743b84a1ca234287d4df68894391d4a11fbc440f5b"
+    },
+    {
+      "id": "architecture",
+      "kind": "t2i",
+      "seed": 9001,
+      "steps": 25,
+      "requested_size": [
+        1024,
+        1024
+      ],
+      "prompt_id": "e923a073-f2b3-426f-9cca-728104448bbb",
+      "success": true,
+      "elapsed_seconds": 10.05,
+      "images": [
+        {
+          "filename": "architecture_00001_.png",
+          "subfolder": "qwen21_benchmark",
+          "type": "output"
+        }
+      ],
+      "errors": [],
+      "peak_vram_mib": 15343,
+      "mean_gpu_util_percent": 74.2,
+      "local_file": "benchmark_outputs/architecture.png",
+      "width": 1024,
+      "height": 1024,
+      "mode": "RGBA",
+      "bytes": 1996325,
+      "sha256": "93b7bc0d0f89544ce1a67f094bf52de1be4dc24bc4a1f862736b3ba9eae41e01",
+      "alpha_min": 249,
+      "alpha_max": 255,
+      "transparent_pixel_percent": 0.0,
+      "pixel_sha256": "94bfffc6501f21c5388b65038f4ec4bf9f988cfaba5040d83264d67a07d47d3a"
+    },
+    {
+      "id": "transparent_icon",
+      "kind": "t2i",
+      "seed": 10001,
+      "steps": 25,
+      "requested_size": [
+        1024,
+        1024
+      ],
+      "prompt_id": "9d572b79-a5c2-42ae-af2a-3c1f6413d406",
+      "success": true,
+      "elapsed_seconds": 9.05,
+      "images": [
+        {
+          "filename": "transparent_icon_00001_.png",
+          "subfolder": "qwen21_benchmark",
+          "type": "output"
+        }
+      ],
+      "errors": [],
+      "peak_vram_mib": 15349,
+      "mean_gpu_util_percent": 91.0,
+      "local_file": "benchmark_outputs/transparent_icon.png",
+      "width": 1024,
+      "height": 1024,
+      "mode": "RGBA",
+      "bytes": 983393,
+      "sha256": "e56941881a9cb21200825e7de24fde0b23193c4569f23d565b1a409e5a754925",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixel_percent": 86.233,
+      "pixel_sha256": "9b019df6a3c919f177596aeca27cc9819ede60b968f595b80c92c96771d4b4b5"
+    },
+    {
+      "id": "transparent_mascot",
+      "kind": "t2i",
+      "seed": 10002,
+      "steps": 25,
+      "requested_size": [
+        1024,
+        1024
+      ],
+      "prompt_id": "a4ffa3ba-5220-4d3c-aada-d1a86e991cce",
+      "success": true,
+      "elapsed_seconds": 12.07,
+      "images": [
+        {
+          "filename": "transparent_mascot_00001_.png",
+          "subfolder": "qwen21_benchmark",
+          "type": "output"
+        }
+      ],
+      "errors": [],
+      "peak_vram_mib": 15347,
+      "mean_gpu_util_percent": 78.7,
+      "local_file": "benchmark_outputs/transparent_mascot.png",
+      "width": 1024,
+      "height": 1024,
+      "mode": "RGBA",
+      "bytes": 754662,
+      "sha256": "821e877080ef70353bfe004658309934bfe81b216e30ce9f578b7b9441a37e0c",
+      "alpha_min": 0,
+      "alpha_max": 255,
+      "transparent_pixel_percent": 63.916,
+      "pixel_sha256": "7f50794096d8815b90947166271b997bdcbe1d8c2f37f79f93ed44a582c12adf"
+    },
+    {
+      "id": "determinism_a",
+      "kind": "t2i",
+      "seed": 424242,
+      "steps": 25,
+      "requested_size": [
+        1024,
+        1024
+      ],
+      "prompt_id": "f7a08f24-cdb6-4f1f-a77b-7e8ee47379e0",
+      "success": true,
+      "elapsed_seconds": 9.44,
+      "images": [
+        {
+          "filename": "determinism_a_00001_.png",
+          "subfolder": "qwen21_benchmark",
+          "type": "output"
+        }
+      ],
+      "errors": [],
+      "peak_vram_mib": 15401,
+      "mean_gpu_util_percent": 78.3,
+      "local_file": "benchmark_outputs/determinism_a.png",
+      "width": 1024,
+      "height": 1024,
+      "mode": "RGBA",
+      "bytes": 1112848,
+      "sha256": "e3aaa7151bea87e29bf5f2fcc5ada48157747cf3cb209f70d2cb163aa9ab05e6",
+      "alpha_min": 253,
+      "alpha_max": 255,
+      "transparent_pixel_percent": 0.0,
+      "pixel_sha256": "588e23e85ccb5116cde19db87af1371d68c558f08a59ef15a79a6b639e7cba1d"
+    },
+    {
+      "id": "determinism_b",
+      "kind": "t2i",
+      "seed": 424242,
+      "steps": 25,
+      "requested_size": [
+        1024,
+        1024
+      ],
+      "prompt_id": "0b762a1c-4eb7-4626-a449-318c35fbe37b",
+      "success": true,
+      "elapsed_seconds": 1.01,
+      "images": [
+        {
+          "filename": "determinism_b_00001_.png",
+          "subfolder": "qwen21_benchmark",
+          "type": "output"
+        }
+      ],
+      "errors": [],
+      "peak_vram_mib": 14069,
+      "mean_gpu_util_percent": 1.2,
+      "local_file": "benchmark_outputs/determinism_b.png",
+      "width": 1024,
+      "height": 1024,
+      "mode": "RGBA",
+      "bytes": 1112848,
+      "sha256": "dda1ab18dfcf3f06ab51e3ff8c5125475dedb70a20d319fd722ea4ad386e24dd",
+      "alpha_min": 253,
+      "alpha_max": 255,
+      "transparent_pixel_percent": 0.0,
+      "pixel_sha256": "588e23e85ccb5116cde19db87af1371d68c558f08a59ef15a79a6b639e7cba1d"
+    },
+    {
+      "id": "2k_product_25",
+      "kind": "t2i",
+      "seed": 11001,
+      "steps": 25,
+      "requested_size": [
+        2048,
+        2048
+      ],
+      "prompt_id": "d831ffa0-0391-4ee8-aaf6-d247510da154",
+      "success": true,
+      "elapsed_seconds": 54.46,
+      "images": [
+        {
+          "filename": "2k_product_25_00001_.png",
+          "subfolder": "qwen21_benchmark",
+          "type": "output"
+        }
+      ],
+      "errors": [],
+      "peak_vram_mib": 15131,
+      "mean_gpu_util_percent": 95.4,
+      "local_file": "benchmark_outputs/2k_product_25.png",
+      "width": 2048,
+      "height": 2048,
+      "mode": "RGBA",
+      "bytes": 5963034,
+      "sha256": "14cf897394fde9c4653e8d659e28e774ea6210c7af9688b80a56a28df494da37",
+      "alpha_min": 244,
+      "alpha_max": 255,
+      "transparent_pixel_percent": 0.0,
+      "pixel_sha256": "26e21a4817a9bf9581dd33bda32fd7ca22fca5f30762b587c85a8871e5f92379"
+    },
+    {
+      "id": "2k_jp_poster_40",
+      "note": "date strings in the prompt and OCR text were replaced with a synthetic date after measurement; match scores are the pre-replacement measurement",
+      "kind": "t2i",
+      "seed": 11002,
+      "steps": 40,
+      "requested_size": [
+        2048,
+        2048
+      ],
+      "prompt_id": "03c37986-7b70-4107-a717-25da98c9d56d",
+      "success": true,
+      "elapsed_seconds": 84.94,
+      "images": [
+        {
+          "filename": "2k_jp_poster_40_00001_.png",
+          "subfolder": "qwen21_benchmark",
+          "type": "output"
+        }
+      ],
+      "errors": [],
+      "peak_vram_mib": 15343,
+      "mean_gpu_util_percent": 97.6,
+      "local_file": "benchmark_outputs/2k_jp_poster_40.png",
+      "width": 2048,
+      "height": 2048,
+      "mode": "RGBA",
+      "bytes": 4566901,
+      "sha256": "9f4fd487a1fb4980fb3e248ef0cc66105233db2e26ac80758b80082d8c49322f",
+      "alpha_min": 157,
+      "alpha_max": 255,
+      "transparent_pixel_percent": 0.061,
+      "pixel_sha256": "644fd3a85821b72d35b3c8ce71f3ba1460f0201aea34fabea2dc687e0632db37"
+    },
+    {
+      "id": "edit_add_object",
+      "kind": "edit",
+      "source": "product_photo_a",
+      "seed": 12001,
+      "steps": 25,
+      "prompt_id": "979b4262-6ada-4b10-b4f2-4ffdb293b5dc",
+      "success": true,
+      "elapsed_seconds": 15.2,
+      "images": [
+        {
+          "filename": "edit_add_object_00002_.png",
+          "subfolder": "qwen21_benchmark",
+          "type": "output"
+        }
+      ],
+      "errors": [],
+      "peak_vram_mib": 15398,
+      "mean_gpu_util_percent": 81.5,
+      "local_file": "benchmark_outputs/edit_add_object.png",
+      "width": 1024,
+      "height": 1024,
+      "mode": "RGBA",
+      "bytes": 1386702,
+      "sha256": "668aa3e27e09709b4621b26ac5461340dbb28f279b2b46e330dfeb2aca03c3dc",
+      "pixel_sha256": "a5aa6e0a29bb407487c7982e31a16ff5597bad9c35347637dbef8e16c1356c59",
+      "alpha_min": 252,
+      "alpha_max": 255,
+      "transparent_pixel_percent": 0.0,
+      "same_dimensions": true,
+      "mean_abs_diff": 6.791,
+      "changed_pixel_percent_gt16": 7.832,
+      "psnr_db": 22.05
+    },
+    {
+      "id": "edit_change_color",
+      "kind": "edit",
+      "source": "product_photo_a",
+      "seed": 12002,
+      "steps": 25,
+      "prompt_id": "991dee0b-e3b7-4351-9206-7a9f50c0c34b",
+      "success": true,
+      "elapsed_seconds": 18.37,
+      "images": [
+        {
+          "filename": "edit_change_color_00002_.png",
+          "subfolder": "qwen21_benchmark",
+          "type": "output"
+        }
+      ],
+      "errors": [],
+      "peak_vram_mib": 15430,
+      "mean_gpu_util_percent": 91.1,
+      "local_file": "benchmark_outputs/edit_change_color.png",
+      "width": 1024,
+      "height": 1024,
+      "mode": "RGBA",
+      "bytes": 1387608,
+      "sha256": "5900f1646a4ef731e577f9a0c16896169b279c3186d507449c93d76bc96d07fe",
+      "pixel_sha256": "cff7069335b4d919b2e01c513946d71330772aae4afacc354674fc3da00b9473",
+      "alpha_min": 252,
+      "alpha_max": 255,
+      "transparent_pixel_percent": 0.0,
+      "same_dimensions": true,
+      "mean_abs_diff": 9.219,
+      "changed_pixel_percent_gt16": 13.905,
+      "psnr_db": 21.594
+    },
+    {
+      "id": "edit_remove_label",
+      "kind": "edit",
+      "source": "product_photo_a",
+      "seed": 12003,
+      "steps": 25,
+      "prompt_id": "a6899eb4-2b00-4bfc-9127-b4f5ddfdfbeb",
+      "success": true,
+      "elapsed_seconds": 32.21,
+      "images": [
+        {
+          "filename": "edit_remove_label_00002_.png",
+          "subfolder": "qwen21_benchmark",
+          "type": "output"
+        }
+      ],
+      "errors": [],
+      "peak_vram_mib": 15422,
+      "mean_gpu_util_percent": 93.5,
+      "local_file": "benchmark_outputs/edit_remove_label.png",
+      "width": 1024,
+      "height": 1024,
+      "mode": "RGBA",
+      "bytes": 1360809,
+      "sha256": "6dc11f0238693ccd39ef213ebcaca96a18f188da4aab63030f4b32f063d3d253",
+      "pixel_sha256": "118960013f758a8b0f121d36618357cf3b204bec854ae854323f3979af9757b2",
+      "alpha_min": 252,
+      "alpha_max": 255,
+      "transparent_pixel_percent": 0.0,
+      "same_dimensions": true,
+      "mean_abs_diff": 2.808,
+      "changed_pixel_percent_gt16": 0.743,
+      "psnr_db": 29.815
+    },
+    {
+      "id": "edit_portrait_hair",
+      "kind": "edit",
+      "source": "portrait",
+      "seed": 12004,
+      "steps": 25,
+      "prompt_id": "114dfaba-245e-4def-9df2-431991e27ebb",
+      "success": true,
+      "elapsed_seconds": 31.35,
+      "images": [
+        {
+          "filename": "edit_portrait_hair_00002_.png",
+          "subfolder": "qwen21_benchmark",
+          "type": "output"
+        }
+      ],
+      "errors": [],
+      "peak_vram_mib": 15418,
+      "mean_gpu_util_percent": 93.2,
+      "local_file": "benchmark_outputs/edit_portrait_hair.png",
+      "width": 768,
+      "height": 1344,
+      "mode": "RGBA",
+      "bytes": 1545468,
+      "sha256": "15a8d0b845adc4f1881ee27cab62d11e845d16993c8536f1ef986db8145a878c",
+      "pixel_sha256": "b99f5bec06d19abb6fa52c8d7e27f7193bf0323a6b5957e3ad0133bcf92b53e3",
+      "alpha_min": 252,
+      "alpha_max": 255,
+      "transparent_pixel_percent": 0.0,
+      "same_dimensions": true,
+      "mean_abs_diff": 11.092,
+      "changed_pixel_percent_gt16": 9.068,
+      "psnr_db": 18.518
+    },
+    {
+      "id": "edit_poster_accent",
+      "note": "date strings in the prompt and OCR text were replaced with a synthetic date after measurement; match scores are the pre-replacement measurement",
+      "kind": "edit",
+      "source": "jp_poster",
+      "seed": 12005,
+      "steps": 25,
+      "prompt_id": "a02b62fc-24fe-4159-a5bc-291531901960",
+      "success": true,
+      "elapsed_seconds": 35.18,
+      "images": [
+        {
+          "filename": "edit_poster_accent_00002_.png",
+          "subfolder": "qwen21_benchmark",
+          "type": "output"
+        }
+      ],
+      "errors": [],
+      "peak_vram_mib": 15427,
+      "mean_gpu_util_percent": 94.9,
+      "local_file": "benchmark_outputs/edit_poster_accent.png",
+      "width": 768,
+      "height": 1344,
+      "mode": "RGBA",
+      "bytes": 863186,
+      "sha256": "a5f3431d74e9f479b031a2287c23cd27bb3435660816e08eabc3e794fb546fcf",
+      "pixel_sha256": "4edd13822aa980dfb07a8c74089e00750a5608bb2f1f84f070453c1d2cdc0535",
+      "alpha_min": 249,
+      "alpha_max": 255,
+      "transparent_pixel_percent": 0.0,
+      "same_dimensions": true,
+      "mean_abs_diff": 5.998,
+      "changed_pixel_percent_gt16": 2.286,
+      "psnr_db": 25.049
+    }
+  ]
+}

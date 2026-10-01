@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# secrets / local settings (never commit)
+.env
+.env.*
+!.env.example
+
+# generated images and ComfyUI inputs
+benchmark_outputs/
+out/
+output/
+input/
+
+# generated or third-party media (not part of this repository)
+*.wav
+*.mp3
+*.mp4
+*.mov
+*.png
+*.jpg
+*.jpeg

@@ -1,0 +1,39 @@
+{
+  "prompt_id": "97cfc826-b39c-44b2-ba35-27749907a375",
+  "elapsed_seconds": 12.06,
+  "images": [
+    {
+      "filename": "qwen21_edit_poc_00001_.png",
+      "subfolder": "qwen21_poc",
+      "type": "output"
+    }
+  ],
+  "status": {
+    "status_str": "success",
+    "completed": true,
+    "messages": [
+      [
+        "execution_start",
+        {
+          "prompt_id": "97cfc826-b39c-44b2-ba35-27749907a375",
+          "timestamp": 0
+        }
+      ],
+      [
+        "execution_cached",
+        {
+          "nodes": [],
+          "prompt_id": "97cfc826-b39c-44b2-ba35-27749907a375",
+          "timestamp": 0
+        }
+      ],
+      [
+        "execution_success",
+        {
+          "prompt_id": "97cfc826-b39c-44b2-ba35-27749907a375",
+          "timestamp": 0
+        }
+      ]
+    ]
+  }
+}

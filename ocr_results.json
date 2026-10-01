@@ -1,0 +1,442 @@
+{
+  "jp_poster": {
+    "note": "date strings in the prompt and OCR text were replaced with a synthetic date after measurement; match scores are the pre-replacement measurement",
+    "elapsed_seconds": 0.901,
+    "lines": [
+      {
+        "text": "未来",
+        "confidence": 0.998
+      },
+      {
+        "text": "AI",
+        "confidence": 0.979
+      },
+      {
+        "text": "2000年1月1日",
+        "confidence": 1.0
+      },
+      {
+        "text": "開催",
+        "confidence": 0.869
+      },
+      {
+        "text": "CIIFOHiU RHIDNO NAHE",
+        "confidence": 0.769
+      },
+      {
+        "text": "BMINOC ABHIVUEAIP",
+        "confidence": 0.828
+      },
+      {
+        "text": "藤口,伊",
+        "confidence": 0.666
+      },
+      {
+        "text": "TIHF E VOY",
+        "confidence": 0.854
+      },
+      {
+        "text": "输屋",
+        "confidence": 0.644
+      },
+      {
+        "text": "1份提丁带作",
+        "confidence": 0.66
+      },
+      {
+        "text": "Lertt的A清衍",
+        "confidence": 0.689
+      },
+      {
+        "text": "日牛一用差",
+        "confidence": 0.56
+      },
+      {
+        "text": "左2周",
+        "confidence": 0.683
+      }
+    ],
+    "expected_token_scores": {
+      "未来をつくるAI": 0.4,
+      "2000年1月1日": 1.0,
+      "開催": 1.0
+    },
+    "mean_expected_score": 0.8
+  },
+  "en_infographic": {
+    "elapsed_seconds": 0.822,
+    "lines": [
+      {
+        "text": "LOCAL AI",
+        "confidence": 0.957
+      },
+      {
+        "text": "WORKFLOW",
+        "confidence": 0.994
+      },
+      {
+        "text": "1. PLAN",
+        "confidence": 0.912
+      },
+      {
+        "text": "2.GENERATE",
+        "confidence": 0.999
+      },
+      {
+        "text": "3. VERIFY",
+        "confidence": 0.941
+      },
+      {
+        "text": "Plagraod",
+        "confidence": 0.92
+      },
+      {
+        "text": "Poaal neoaufls",
+        "confidence": 0.744
+      },
+      {
+        "text": "Cikune rngli, maxoers",
+        "confidence": 0.931
+      },
+      {
+        "text": "MeraonUnce",
+        "confidence": 0.745
+      },
+      {
+        "text": "0C- PIkO onoChmanes",
+        "confidence": 0.831
+      },
+      {
+        "text": "Dsountuc Wsdwitue",
+        "confidence": 0.852
+      },
+      {
+        "text": "Banger adltmoitgil,",
+        "confidence": 0.953
+      },
+      {
+        "text": "Gucpus esimeptes.",
+        "confidence": 0.924
+      },
+      {
+        "text": "UaplganAroesiom",
+        "confidence": 0.832
+      },
+      {
+        "text": "Plcelitanta Cuin Bvababy",
+        "confidence": 0.838
+      },
+      {
+        "text": "1. PLAN",
+        "confidence": 0.999
+      },
+      {
+        "text": "9.slde",
+        "confidence": 0.629
+      },
+      {
+        "text": "ort",
+        "confidence": 0.741
+      },
+      {
+        "text": "b FGre -F",
+        "confidence": 0.8
+      },
+      {
+        "text": "D",
+        "confidence": 0.691
+      },
+      {
+        "text": "tiosidlici werifity",
+        "confidence": 0.833
+      },
+      {
+        "text": "Desw cavas sranenlensone.",
+        "confidence": 0.853
+      },
+      {
+        "text": "3.Faigie",
+        "confidence": 0.762
+      },
+      {
+        "text": "Hiw ulnorttal icsk",
+        "confidence": 0.842
+      },
+      {
+        "text": "Hrovlee ratfahina",
+        "confidence": 0.817
+      },
+      {
+        "text": "8. FIKx 9",
+        "confidence": 0.693
+      },
+      {
+        "text": "kanok os uumstangje.",
+        "confidence": 0.837
+      },
+      {
+        "text": "3rfigyrel",
+        "confidence": 0.589
+      },
+      {
+        "text": ".0",
+        "confidence": 0.582
+      },
+      {
+        "text": "Lne nideecltciss",
+        "confidence": 0.772
+      },
+      {
+        "text": "2.Fure",
+        "confidence": 0.868
+      },
+      {
+        "text": "staw apalctltsuis.",
+        "confidence": 0.841
+      },
+      {
+        "text": "feernowa fieifemokes.",
+        "confidence": 0.754
+      },
+      {
+        "text": "Auye l",
+        "confidence": 0.735
+      },
+      {
+        "text": "ory",
+        "confidence": 0.605
+      },
+      {
+        "text": "10",
+        "confidence": 0.998
+      },
+      {
+        "text": "Lrhorthei fite okapriagey",
+        "confidence": 0.95
+      },
+      {
+        "text": "艺",
+        "confidence": 0.646
+      },
+      {
+        "text": "3. VERIFY",
+        "confidence": 0.995
+      },
+      {
+        "text": "Uearalv olngtalfogdtal",
+        "confidence": 0.849
+      },
+      {
+        "text": "Peencilnaoskes",
+        "confidence": 0.902
+      },
+      {
+        "text": "Wogeigowfet lilits",
+        "confidence": 0.791
+      },
+      {
+        "text": "Rielafieteweco",
+        "confidence": 0.909
+      },
+      {
+        "text": "Clichawt",
+        "confidence": 0.657
+      },
+      {
+        "text": "Ralike ama/eorimgt alicy",
+        "confidence": 0.866
+      },
+      {
+        "text": "moa dilico",
+        "confidence": 0.894
+      }
+    ],
+    "expected_token_scores": {
+      "LOCAL AI WORKFLOW": 0.696,
+      "1. PLAN": 1.0,
+      "2. GENERATE": 1.0,
+      "3. VERIFY": 1.0
+    },
+    "mean_expected_score": 0.924
+  },
+  "flow_diagram": {
+    "elapsed_seconds": 0.327,
+    "lines": [
+      {
+        "text": "PROMPT",
+        "confidence": 0.997
+      },
+      {
+        "text": "MODEL",
+        "confidence": 0.941
+      },
+      {
+        "text": "IMAGE",
+        "confidence": 0.995
+      },
+      {
+        "text": "REVIEW",
+        "confidence": 0.998
+      }
+    ],
+    "expected_token_scores": {
+      "PROMPT": 1.0,
+      "MODEL": 1.0,
+      "IMAGE": 1.0,
+      "REVIEW": 1.0
+    },
+    "mean_expected_score": 1.0
+  },
+  "2k_jp_poster_40": {
+    "note": "date strings in the prompt and OCR text were replaced with a synthetic date after measurement; match scores are the pre-replacement measurement",
+    "elapsed_seconds": 2.37,
+    "lines": [
+      {
+        "text": "TOUA里·I7O）K.CaM",
+        "confidence": 0.678
+      },
+      {
+        "text": ",一",
+        "confidence": 0.752
+      },
+      {
+        "text": "生成",
+        "confidence": 0.991
+      },
+      {
+        "text": "寒践7-",
+        "confidence": 0.719
+      },
+      {
+        "text": "弘",
+        "confidence": 0.965
+      },
+      {
+        "text": "生成战通拟级还，加霄。",
+        "confidence": 0.808
+      },
+      {
+        "text": "一力素的莓处_污心小天胳。",
+        "confidence": 0.783
+      },
+      {
+        "text": "2000.01.01",
+        "confidence": 1.0
+      },
+      {
+        "text": "HALL A",
+        "confidence": 0.997
+      },
+      {
+        "text": "1<值。\"",
+        "confidence": 0.706
+      },
+      {
+        "text": "需|这懋新",
+        "confidence": 0.53
+      },
+      {
+        "text": "T0K.23 1 27.1703ICG",
+        "confidence": 0.868
+      },
+      {
+        "text": "T011.1E",
+        "confidence": 0.977
+      },
+      {
+        "text": "、与践",
+        "confidence": 0.922
+      },
+      {
+        "text": "鸳型奕丨：杭惡HAI",
+        "confidence": 0.866
+      },
+      {
+        "text": "影珍感是，集败严M久俭夕",
+        "confidence": 0.632
+      },
+      {
+        "text": "暨宫五，女仁远重",
+        "confidence": 0.672
+      },
+      {
+        "text": "全焦诊以//与思去量",
+        "confidence": 0.677
+      },
+      {
+        "text": "开察保击吐酌知",
+        "confidence": 0.853
+      }
+    ],
+    "expected_token_scores": {
+      "生成AI 実践フォーラム": 0.308,
+      "2000.01.01": 1.0,
+      "HALL A": 1.0
+    },
+    "mean_expected_score": 0.769
+  },
+  "edit_poster_accent": {
+    "note": "date strings in the prompt and OCR text were replaced with a synthetic date after measurement; match scores are the pre-replacement measurement",
+    "elapsed_seconds": 0.551,
+    "lines": [
+      {
+        "text": "未来",
+        "confidence": 0.998
+      },
+      {
+        "text": "AI",
+        "confidence": 0.976
+      },
+      {
+        "text": "2000年1月1日",
+        "confidence": 1.0
+      },
+      {
+        "text": "開催",
+        "confidence": 0.849
+      },
+      {
+        "text": "CIIFOBiU RFIIDNO NAHE",
+        "confidence": 0.745
+      },
+      {
+        "text": "BMXOC  ABHIVUE AIP",
+        "confidence": 0.824
+      },
+      {
+        "text": "口,伊",
+        "confidence": 0.682
+      },
+      {
+        "text": "TIVHRE MVOY",
+        "confidence": 0.752
+      },
+      {
+        "text": "宦",
+        "confidence": 0.512
+      },
+      {
+        "text": "1.街拉丁翁作",
+        "confidence": 0.737
+      },
+      {
+        "text": "LrrttA清丽质了",
+        "confidence": 0.694
+      },
+      {
+        "text": "日牛一用",
+        "confidence": 0.696
+      },
+      {
+        "text": "左22月",
+        "confidence": 0.716
+      }
+    ],
+    "expected_token_scores": {
+      "未来をつくるAI": 0.4,
+      "2000年1月1日": 1.0,
+      "開催": 1.0
+    },
+    "mean_expected_score": 0.8
+  }
+}

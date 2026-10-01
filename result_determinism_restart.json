@@ -1,0 +1,39 @@
+{
+  "prompt_id": "bb7a8a6f-0e52-405f-bab1-60c50c69e77e",
+  "elapsed_seconds": 12.43,
+  "images": [
+    {
+      "filename": "determinism_restart_00001_.png",
+      "subfolder": "qwen21_benchmark",
+      "type": "output"
+    }
+  ],
+  "status": {
+    "status_str": "success",
+    "completed": true,
+    "messages": [
+      [
+        "execution_start",
+        {
+          "prompt_id": "bb7a8a6f-0e52-405f-bab1-60c50c69e77e",
+          "timestamp": 0
+        }
+      ],
+      [
+        "execution_cached",
+        {
+          "nodes": [],
+          "prompt_id": "bb7a8a6f-0e52-405f-bab1-60c50c69e77e",
+          "timestamp": 0
+        }
+      ],
+      [
+        "execution_success",
+        {
+          "prompt_id": "bb7a8a6f-0e52-405f-bab1-60c50c69e77e",
+          "timestamp": 0
+        }
+      ]
+    ]
+  }
+}
